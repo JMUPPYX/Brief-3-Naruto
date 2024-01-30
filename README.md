@@ -4,6 +4,7 @@
 
 Le projet consiste à créer un site web sur le manga Naruto, qui présente l’univers, les personnages, les épisodes ou les produits dérivés de cette œuvre. Le site web doit être responsive, moderne et attractif, et comporter un menu burger ou un slider en full CSS (no JS).
 
+![capture d'écran](readme.PNG)
 **Contexte du projet**
 
 En tant que développeur Web et Web mobile , les apprenants devront réaliser les tâches suivantes :
